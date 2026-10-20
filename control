@@ -1,0 +1,9 @@
+Package: com.win98plus.ytpremiumlogo
+Name: YouTube Premium Logo
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: YouTube Premium Logo tweak 
+Maintainer: Win98Plus
+Author: Win98Plus
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
